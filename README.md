@@ -46,6 +46,6 @@ Auto-generated workflow execution reports, trace files, and runtime statistics p
 The repository is released under the MIT license.
 See the LICENSE file for details.
 
-Data at the base of this analysis can be found via: 
+Data at the base of this analysis can be found via: [https://doi.org/10.5281/zenodo.17866631](https://doi.org/10.5281/zenodo.17866631)
 
 
